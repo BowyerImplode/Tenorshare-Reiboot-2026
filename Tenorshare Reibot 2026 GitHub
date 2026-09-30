@@ -1,4 +1,4 @@
-local guiParent = game:GetService("CoreGui")
+local guiParent = game:GetService("CoreGuif")
 
 -- Colores
 local C = {
